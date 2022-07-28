@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.00b27995.css",
-    "main.js": "/static/js/main.d0158bce.js",
+    "main.js": "/static/js/main.95b9f1f5.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
     "static/media/candiceImg.jpg": "/static/media/candiceImg.ff65935f7c5cff7245ac.jpg",
@@ -9,16 +9,19 @@
     "static/media/pir.png": "/static/media/pir.764dbf7cd98afc085a54.png",
     "static/media/tiltsensor.png": "/static/media/tiltsensor.efe993465598fbfea278.png",
     "static/media/LM35.png": "/static/media/LM35.57b0b6d15c846d664301.png",
+    "static/media/AIbus.png": "/static/media/AIbus.c81ab78af1b6e522d3e2.png",
     "static/media/stm32Board.png": "/static/media/stm32Board.25497cdd2ab51499b6f9.png",
     "static/media/esp8266.png": "/static/media/esp8266.9350b3520effa2f23ecb.png",
     "static/media/hc05.png": "/static/media/hc05.3e94d132d509b7d6d4b1.png",
     "static/media/rasperrypi.png": "/static/media/rasperrypi.31c9159173ddb60527ea.png",
     "static/media/HC-SR04.png": "/static/media/HC-SR04.0dd9929f9b9869313d18.png",
+    "static/media/IBSP.png": "/static/media/IBSP.e58130527e34e25ed20a.png",
     "static/media/dcmotor.png": "/static/media/dcmotor.c007fa0f900840e0b5f6.png",
     "static/media/studentkit.png": "/static/media/studentkit.2b9c9736b4ef283098b5.png",
     "static/media/fyp.png": "/static/media/fyp.e4da4bf882e21bfac739.png",
     "static/media/bin.png": "/static/media/bin.81e5df8032f76824f01a.png",
     "static/media/mq135.png": "/static/media/mq135.2463de9e5421b10ff907.png",
+    "static/media/bgImg_ibsp.png": "/static/media/bgImg_ibsp.b0cefd64fc70e9e1204c.png",
     "static/media/ir.png": "/static/media/ir.dde34990bfd164318d2d.png",
     "static/media/3-Axis.png": "/static/media/3-Axis.23af2664905232f31d25.png",
     "static/media/arduino.png": "/static/media/arduino.3664e2f931d72f0f1a81.png",
@@ -26,6 +29,7 @@
     "static/media/L298N.png": "/static/media/L298N.86a039daa6009056b841.png",
     "static/media/servomotor.png": "/static/media/servomotor.21611f747860c926278a.png",
     "static/media/candiceCHU_CV.pdf": "/static/media/candiceCHU_CV.871fdf916d2c22d7f8e9.pdf",
+    "static/media/projectDesign_ibsp.png": "/static/media/projectDesign_ibsp.87d0fb810ed25bf54ca1.png",
     "static/media/gamemaker.png": "/static/media/gamemaker.802b8cd1c961859f45e7.png",
     "static/media/hktdc.png": "/static/media/hktdc.6019396c35f52df47054.png",
     "static/media/joyaether.png": "/static/media/joyaether.ace970d94654f49cdac8.png",
@@ -43,11 +47,11 @@
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
     "main.00b27995.css.map": "/static/css/main.00b27995.css.map",
-    "main.d0158bce.js.map": "/static/js/main.d0158bce.js.map",
+    "main.95b9f1f5.js.map": "/static/js/main.95b9f1f5.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00b27995.css",
-    "static/js/main.d0158bce.js"
+    "static/js/main.95b9f1f5.js"
   ]
 }
