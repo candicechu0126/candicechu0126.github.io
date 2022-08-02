@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.00b27995.css",
-    "main.js": "/static/js/main.95b9f1f5.js",
+    "main.css": "/static/css/main.40a6249c.css",
+    "main.js": "/static/js/main.88aab1bd.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
     "static/media/candiceImg.jpg": "/static/media/candiceImg.ff65935f7c5cff7245ac.jpg",
@@ -30,6 +30,7 @@
     "static/media/servomotor.png": "/static/media/servomotor.21611f747860c926278a.png",
     "static/media/candiceCHU_CV.pdf": "/static/media/candiceCHU_CV.871fdf916d2c22d7f8e9.pdf",
     "static/media/projectDesign_ibsp.png": "/static/media/projectDesign_ibsp.87d0fb810ed25bf54ca1.png",
+    "static/media/pj6_img1.png": "/static/media/pj6_img1.2297159814f5aa5bf406.png",
     "static/media/gamemaker.png": "/static/media/gamemaker.802b8cd1c961859f45e7.png",
     "static/media/hktdc.png": "/static/media/hktdc.6019396c35f52df47054.png",
     "static/media/joyaether.png": "/static/media/joyaether.ace970d94654f49cdac8.png",
@@ -39,19 +40,24 @@
     "static/media/androidstudio.png": "/static/media/androidstudio.44287d3d3e46858875f9.png",
     "static/media/codeblocks.png": "/static/media/codeblocks.9cccf4a83aaed7e1c538.png",
     "static/media/designspark.png": "/static/media/designspark.d48d62d88e6feba97de8.png",
+    "static/media/title5.png": "/static/media/title5.439ded03522122cd189e.png",
     "static/media/tinkercad.png": "/static/media/tinkercad.f72789a459d874f8470a.png",
     "static/media/ygn.png": "/static/media/ygn.b36994f69183bffa0e12.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.0ba2bf6929be043c434d.jpg",
     "static/media/logo.svg": "/static/media/logo.c829d64f1f10afea06f2b2d58b324bc0.svg",
     "static/media/premiere-pro.png": "/static/media/premiere-pro.b4f3d13c8b2109b550b2.png",
+    "static/media/title4.png": "/static/media/title4.13ba8706637d2d4d6303.png",
+    "static/media/title2.png": "/static/media/title2.5ec4a3a69cff3c32ed8e.png",
+    "static/media/title3.png": "/static/media/title3.e9d010336267f98a1f65.png",
+    "static/media/title6.png": "/static/media/title6.a9f7ed26b25881fa8e43.png",
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
-    "main.00b27995.css.map": "/static/css/main.00b27995.css.map",
-    "main.95b9f1f5.js.map": "/static/js/main.95b9f1f5.js.map",
+    "main.40a6249c.css.map": "/static/css/main.40a6249c.css.map",
+    "main.88aab1bd.js.map": "/static/js/main.88aab1bd.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00b27995.css",
-    "static/js/main.95b9f1f5.js"
+    "static/css/main.40a6249c.css",
+    "static/js/main.88aab1bd.js"
   ]
 }
