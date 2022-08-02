@@ -3,6 +3,7 @@ import styled from "styled-components";
 import { Col, Container } from "react-bootstrap";
 import BGImg from "../../Assets/Projects/bgImg_ibsp.png";
 import PorjectDesign from "../../Assets/Projects/projectDesign_ibsp.png";
+import titleImg from "../../Assets/projectTitle/title5.png";
 
 const Title = styled.div`
   text-align: center;
@@ -27,11 +28,16 @@ export default function SurveillanceSystem() {
   return (
     <Container fluid className="project-section">
       <Container>
-        <h1 className="project-heading">
+        <img
+          src={titleImg}
+          width="60%"
+          style={{ paddingTop: "30px", paddingBottom: "30px" }}
+        />
+        {/* <h1 className="project-heading">
           <strong className="purple">
             Develop Image Abnormal Detection for Surveillance System
           </strong>
-        </h1>
+        </h1> */}
         <img
           src={BGImg}
           width="60%"
@@ -113,7 +119,6 @@ export default function SurveillanceSystem() {
 
         <Col>
           <Title>Design and Research Work</Title>
-
           <Abstract>
             <SubTitle>Research work</SubTitle>
             <li>

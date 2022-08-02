@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Col, Container } from "react-bootstrap";
+import titleImg from "../../Assets/projectTitle/title1.png";
 
 const Title = styled.div`
   text-align: left;
@@ -19,9 +20,14 @@ export default function PowerFitness() {
   return (
     <Container fluid className="project-section">
       <Container>
-        <h1 className="project-heading">
+        <img
+          src={titleImg}
+          width="60%"
+          style={{ paddingTop: "30px", paddingBottom: "30px" }}
+        />
+        {/* <h1 className="project-heading">
           <strong style={{ color: "whitesmoke" }}>Power Fitness</strong>
-        </h1>
+        </h1> */}
         <Col>
           <Title style={{ textAlign: "justify" }}>Abstract</Title>
           <Abstract>
