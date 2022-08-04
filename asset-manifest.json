@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.40a6249c.css",
-    "main.js": "/static/js/main.88aab1bd.js",
+    "main.css": "/static/css/main.aeba7d3c.css",
+    "main.js": "/static/js/main.09029bbe.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
     "static/media/candiceImg.jpg": "/static/media/candiceImg.ff65935f7c5cff7245ac.jpg",
@@ -30,6 +30,9 @@
     "static/media/servomotor.png": "/static/media/servomotor.21611f747860c926278a.png",
     "static/media/candiceCHU_CV.pdf": "/static/media/candiceCHU_CV.871fdf916d2c22d7f8e9.pdf",
     "static/media/projectDesign_ibsp.png": "/static/media/projectDesign_ibsp.87d0fb810ed25bf54ca1.png",
+    "static/media/Tim.png": "/static/media/Tim.b582602f8a6818556642.png",
+    "static/media/Candice.png": "/static/media/Candice.86579945a9ed06f45eb4.png",
+    "static/media/Gordon.png": "/static/media/Gordon.32c3c9eb717a44ad14b9.png",
     "static/media/pj6_img1.png": "/static/media/pj6_img1.2297159814f5aa5bf406.png",
     "static/media/gamemaker.png": "/static/media/gamemaker.802b8cd1c961859f45e7.png",
     "static/media/hktdc.png": "/static/media/hktdc.6019396c35f52df47054.png",
@@ -52,12 +55,12 @@
     "static/media/title6.png": "/static/media/title6.a9f7ed26b25881fa8e43.png",
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
-    "main.40a6249c.css.map": "/static/css/main.40a6249c.css.map",
-    "main.88aab1bd.js.map": "/static/js/main.88aab1bd.js.map",
+    "main.aeba7d3c.css.map": "/static/css/main.aeba7d3c.css.map",
+    "main.09029bbe.js.map": "/static/js/main.09029bbe.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40a6249c.css",
-    "static/js/main.88aab1bd.js"
+    "static/css/main.aeba7d3c.css",
+    "static/js/main.09029bbe.js"
   ]
 }
