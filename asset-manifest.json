@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.aeba7d3c.css",
-    "main.js": "/static/js/main.09029bbe.js",
+    "main.js": "/static/js/main.c70221c8.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
+    "static/media/project2_programChart.png": "/static/media/project2_programChart.2255786c58edc1d7f2fa.png",
     "static/media/candiceImg.jpg": "/static/media/candiceImg.ff65935f7c5cff7245ac.jpg",
     "static/media/about.jpg": "/static/media/about.e69b0ead85ad315b4498.jpg",
+    "static/media/project2_circuit2.png": "/static/media/project2_circuit2.604dd72b2e6474475087.png",
     "static/media/pir.png": "/static/media/pir.764dbf7cd98afc085a54.png",
     "static/media/tiltsensor.png": "/static/media/tiltsensor.efe993465598fbfea278.png",
     "static/media/LM35.png": "/static/media/LM35.57b0b6d15c846d664301.png",
@@ -18,6 +20,7 @@
     "static/media/IBSP.png": "/static/media/IBSP.e58130527e34e25ed20a.png",
     "static/media/dcmotor.png": "/static/media/dcmotor.c007fa0f900840e0b5f6.png",
     "static/media/studentkit.png": "/static/media/studentkit.2b9c9736b4ef283098b5.png",
+    "static/media/project2_circuit1.png": "/static/media/project2_circuit1.826255cc3e08f436f4b2.png",
     "static/media/fyp.png": "/static/media/fyp.e4da4bf882e21bfac739.png",
     "static/media/bin.png": "/static/media/bin.81e5df8032f76824f01a.png",
     "static/media/mq135.png": "/static/media/mq135.2463de9e5421b10ff907.png",
@@ -56,11 +59,11 @@
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
     "main.aeba7d3c.css.map": "/static/css/main.aeba7d3c.css.map",
-    "main.09029bbe.js.map": "/static/js/main.09029bbe.js.map",
+    "main.c70221c8.js.map": "/static/js/main.c70221c8.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aeba7d3c.css",
-    "static/js/main.09029bbe.js"
+    "static/js/main.c70221c8.js"
   ]
 }
