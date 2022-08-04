@@ -1,12 +1,12 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import powerFitness from "../../Assets/Projects/fyp.png";
-import studentkit from "../../Assets/Projects/studentkit.png";
-import bin from "../../Assets/Projects/bin.png";
-import petcarrier from "../../Assets/Projects/petcarrier.png";
-import ibsp from "../../Assets/Projects/IBSP.png";
-import aiBus from "../../Assets/Projects/AIbus.png";
+import powerFitness from "../../Assets/Projects/icon/fyp.png";
+import studentkit from "../../Assets/Projects/icon/studentkit.png";
+import bin from "../../Assets/Projects/icon/bin.png";
+import petcarrier from "../../Assets/Projects/icon/petcarrier.png";
+import ibsp from "../../Assets/Projects/icon/IBSP.png";
+import aiBus from "../../Assets/Projects/icon/AIbus.png";
 import styled from "styled-components";
 
 export const Description = styled.div`

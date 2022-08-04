@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Col, Container } from "react-bootstrap";
-import titleImg from "../../Assets/projectTitle/title6.png";
+import titleImg from "../../Assets/Projects/title/title6.png";
 import img1 from "../../Assets/Projects/pj6_img1.png";
 
 const Title = styled.div`
@@ -42,20 +42,28 @@ export default function PetCarrier() {
   return (
     <Container fluid className="project-section">
       <Container>
-        <img
-          src={titleImg}
-          width="60%"
-          style={{ paddingTop: "30px", paddingBottom: "30px" }}
-        />
+        <img src={titleImg} width="60%" />
         <div className="project-heading">HKUST ELEC3300 Final Project 2022</div>
       </Container>
+
       <Col>
         <Title>System Diagram</Title>
-        <img
-          src={img1}
-          width="60%"
-          style={{ paddingTop: "30px", paddingBottom: "30px" }}
-        />
+        <img src={img1} width="60%" />
+      </Col>
+
+      <Col>
+        <Title>Project Video Demostration</Title>
+        <div className="video-responsive">
+          <iframe
+            width="853"
+            height="480"
+            src={`https://www.youtube.com/embed/59R84YLEDeg`}
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            title="Embedded youtube"
+          />
+        </div>
       </Col>
 
       <Col>

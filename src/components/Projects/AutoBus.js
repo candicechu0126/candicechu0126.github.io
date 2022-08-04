@@ -1,8 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Row, Container } from "react-bootstrap";
-import titleImg from "../../Assets/projectTitle/title3.png";
-
+import titleImg from "../../Assets/Projects/title/title3.png";
 export default function AutoBus() {
   return (
     <Container fluid className="project-section">
