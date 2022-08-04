@@ -49,7 +49,7 @@ export default function PowerFitness() {
         />
         <Col>
           <Title>GroupMates</Title>
-          <div style={{ displa: "flex", justifyContent: "center" }}>
+          <div style={{ display: "flex", justifyContent: "center" }}>
             <Row
               style={{
                 justifyContent: "center",
