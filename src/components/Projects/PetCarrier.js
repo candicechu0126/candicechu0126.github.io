@@ -3,7 +3,6 @@ import styled from "styled-components";
 import { Col, Container } from "react-bootstrap";
 import titleImg from "../../Assets/Projects/title/title6.png";
 import img1 from "../../Assets/Projects/pj6_img1.png";
-import { Player } from "video-react";
 
 const Title = styled.div`
   text-align: left;
