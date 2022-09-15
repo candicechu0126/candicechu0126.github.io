@@ -1,5 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
+
 function About2() {
   return (
     <Container>
@@ -16,68 +17,60 @@ function About2() {
       <Container>
         <h1 style={styles.title}>Experience</h1>
         <div style={styles.rowWork}>
-          <div style={{ flex: 1 }}>
-            <ul
-              style={{ textAlign: "initial", justifyContent: "space-around" }}
-            >
-              <h4>Computer Engineering Intern - Programmer</h4>
-              <div style={styles.textName}>
-                mSolution Consultants Limited (Dec 2018 – Apr 2019)
-              </div>
-              <li>Analysis the problem from the CCTV situation of the site</li>
-              <li>
-                Conducted research bases on python method tocompare two image
-                similarity
-              </li>
-              <li>Design program and virtual database</li>
-            </ul>
-          </div>
-          <div style={{ flex: 1 }}>
-            <ul
-              style={{ textAlign: "initial", justifyContent: "space-around" }}
-            >
-              <h4>Quality Analyst- Web/Mobile Application Intern</h4>
-              <div style={styles.textName}>
-                JoyAether Limited (Dec 23, 2020 – Feby 3, 2021)
-              </div>
-              <li>Business Information Collection</li>
-              <li>Web / Mobile Application Testing</li>
-              <li>Business Analysis</li>
-            </ul>
-          </div>
-        </div>
-        <div style={styles.rowWork}>
-          <div style={{ flex: 1 }}>
-            <ul
-              style={{ textAlign: "initial", justifyContent: "space-around" }}
-            >
-              <h4>STEM Assistant Coordinator Intern</h4>
-              <div style={styles.textName}>
-                Youth Global Network (Jun 1, 2021-Present)
-              </div>
-              <li>Support of software platform and design recommendation</li>
-              <li>Test ICT curricula for education platform</li>
-              <li>
-                Develop solution to the problems and implementation of STEM
-                curriculum
-              </li>
-            </ul>
-          </div>
-          <div style={{ flex: 1 }}>
-            <ul
-              style={{ textAlign: "initial", justifyContent: "space-around" }}
-            >
-              <h4>Research and Teacher Assistant</h4>
-              <div style={styles.textName}>
-                Youth Global Network (Sept 1, 2021-Present)
-              </div>
-              <li>Assist in software maintenance of youCodia products</li>
-              <li>
-                Contribute to the design and development of new features in
-                youCodia system
-              </li>
-            </ul>
-          </div>
+          {/* <div style={{ flex: 1 }}> */}
+          <ul style={{ textAlign: "initial", justifyContent: "space-around" }}>
+            <h4>Computer Engineering Intern - Programmer</h4>
+            <div style={styles.textName}>
+              mSolution Consultants Limited (Dec 2018 – Apr 2019)
+            </div>
+            <li>Analysis the problem from the CCTV situation of the site</li>
+            <li>
+              Conducted research bases on python method tocompare two image
+              similarity
+            </li>
+            <li>Design program and virtual database</li>
+          </ul>
+          {/* </div> */}
+          {/* <div style={{ flex: 1 }}> */}
+          <ul style={{ textAlign: "initial", justifyContent: "space-around" }}>
+            <h4>Quality Analyst- Web/Mobile Application Intern</h4>
+            <div style={styles.textName}>
+              JoyAether Limited (Dec 23, 2020 – Feby 3, 2021)
+            </div>
+            <li>Business Information Collection</li>
+            <li>Web / Mobile Application Testing</li>
+            <li>Business Analysis</li>
+          </ul>
+          {/* </div> */}
+          {/* </div> */}
+          {/* <div style={styles.rowWork}> */}
+          {/* <div style={{ flex: 1 }}> */}
+          <ul style={{ textAlign: "initial", justifyContent: "space-around" }}>
+            <h4>STEM Assistant Coordinator Intern</h4>
+            <div style={styles.textName}>
+              Youth Global Network (Jun 1, 2021-Present)
+            </div>
+            <li>Support of software platform and design recommendation</li>
+            <li>Test ICT curricula for education platform</li>
+            <li>
+              Develop solution to the problems and implementation of STEM
+              curriculum
+            </li>
+          </ul>
+          {/* </div> */}
+          {/* <div style={{ flex: 1 }}> */}
+          <ul style={{ textAlign: "initial", justifyContent: "space-around" }}>
+            <h4>Research and Teacher Assistant</h4>
+            <div style={styles.textName}>
+              Youth Global Network (Sept 1, 2021-Present)
+            </div>
+            <li>Assist in software maintenance of youCodia products</li>
+            <li>
+              Contribute to the design and development of new features in
+              youCodia system
+            </li>
+          </ul>
+          {/* </div> */}
         </div>
       </Container>
       <Container>
@@ -118,11 +111,14 @@ const styles = {
     fontWeight: 500,
     justifyContent: "center",
   },
+
   rowWork: {
     display: "flex",
-    flexDirection: "row",
+    flexWrap: "wrap",
+    flexDirection: "column",
     paddingTop: "30px",
   },
+
   textName: {
     color: "#89898a",
     fontSize: "18px",
