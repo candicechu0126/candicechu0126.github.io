@@ -5,7 +5,7 @@ function About2() {
     <Container>
       <Container>
         <h1 style={styles.title}>Education</h1>
-        <ul style={{ textAlign: "justify", justifyContent: "space-around" }}>
+        <ul style={{ textAlign: "initial", justifyContent: "space-around" }}>
           <h4>Bachelor in Electronic Engineering</h4>
           <div style={styles.textName}>
             Hong Kong University of Science and Technolog
@@ -18,7 +18,7 @@ function About2() {
         <div style={styles.rowWork}>
           <div style={{ flex: 1 }}>
             <ul
-              style={{ textAlign: "justify", justifyContent: "space-around" }}
+              style={{ textAlign: "initial", justifyContent: "space-around" }}
             >
               <h4>Computer Engineering Intern - Programmer</h4>
               <div style={styles.textName}>
@@ -34,7 +34,7 @@ function About2() {
           </div>
           <div style={{ flex: 1 }}>
             <ul
-              style={{ textAlign: "justify", justifyContent: "space-around" }}
+              style={{ textAlign: "initial", justifyContent: "space-around" }}
             >
               <h4>Quality Analyst- Web/Mobile Application Intern</h4>
               <div style={styles.textName}>
@@ -49,7 +49,7 @@ function About2() {
         <div style={styles.rowWork}>
           <div style={{ flex: 1 }}>
             <ul
-              style={{ textAlign: "justify", justifyContent: "space-around" }}
+              style={{ textAlign: "initial", justifyContent: "space-around" }}
             >
               <h4>STEM Assistant Coordinator Intern</h4>
               <div style={styles.textName}>
@@ -65,7 +65,7 @@ function About2() {
           </div>
           <div style={{ flex: 1 }}>
             <ul
-              style={{ textAlign: "justify", justifyContent: "space-around" }}
+              style={{ textAlign: "initial", justifyContent: "space-around" }}
             >
               <h4>Research and Teacher Assistant</h4>
               <div style={styles.textName}>
@@ -82,7 +82,7 @@ function About2() {
       </Container>
       <Container>
         <h1 style={styles.title}>Honor & Awards</h1>
-        <ul style={{ textAlign: "justify", justifyContent: "space-around" }}>
+        <ul style={{ textAlign: "initial", justifyContent: "space-around" }}>
           <li>Pearson LCCI Certificate (HKVEP)</li>
           <li>Outstanding academic achievement</li>
           <li>Leadership and commitment Gold certificate</li>
@@ -93,7 +93,7 @@ function About2() {
       </Container>
       <Container>
         <h1 style={styles.title}>Activity</h1>
-        <ul style={{ textAlign: "justify", justifyContent: "space-around" }}>
+        <ul style={{ textAlign: "initial", justifyContent: "space-around" }}>
           <li>Environmental Ambassador Volunteer</li>
           <li>Red Cross Health Management Volunteer</li>
           <li>The InnoCarnival of Hong Kong Science Park helper</li>
