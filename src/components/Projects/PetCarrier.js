@@ -3,6 +3,7 @@ import styled from "styled-components";
 import { Col, Container } from "react-bootstrap";
 import titleImg from "../../Assets/Projects/title/title6.png";
 import img1 from "../../Assets/Projects/pj6_img1.png";
+import { Player } from "video-react";
 
 const Title = styled.div`
   text-align: left;
@@ -51,7 +52,7 @@ export default function PetCarrier() {
         <img src={img1} width="60%" />
       </Col>
 
-      <Col>
+      {/* <Col>
         <Title>Project Video Demostration</Title>
         <div className="video-responsive">
           <iframe
@@ -62,9 +63,11 @@ export default function PetCarrier() {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
             title="Embedded youtube"
+            muted
+            voice="none"
           />
         </div>
-      </Col>
+      </Col> */}
 
       <Col>
         <Title>Project Summary</Title>
