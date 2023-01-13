@@ -10,6 +10,7 @@ import Pictoblox from "../../Assets/OtherAbout/Pictoblox.png";
 import Scratch from "../../Assets/OtherAbout/scratch.jpeg";
 import TeachableMachine from "../../Assets/OtherAbout/TeachableMachine.png";
 import Thunkable from "../../Assets/OtherAbout/thunkable.png";
+import ThingSpeak from "../../Assets/OtherAbout/ThingSpeak.jpeg";
 
 function Otherstack() {
   return (
@@ -45,24 +46,28 @@ function Otherstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div className="text">Pictoblox</div>
-        <img src={Pictoblox} alt="AndroidStudio" width="72px" height="72px" />
+        <img src={Pictoblox} alt="Pictoblox" width="72px" height="72px" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div className="text">Scratch</div>
-        <img src={Scratch} alt="AndroidStudio" width="72px" height="60px" />
+        <img src={Scratch} alt="Scratch" width="72px" height="60px" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div className="text">Teachable Machine</div>
         <img
           src={TeachableMachine}
-          alt="AndroidStudio"
+          alt="TeachableMachine"
           width="72px"
           height="70px"
         />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div className="text">Thunkable</div>
-        <img src={Thunkable} alt="AndroidStudio" width="72px" height="60px" />
+        <img src={Thunkable} alt="Thunkable" width="72px" height="60px" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">ThingSpeak</div>
+        <img src={ThingSpeak} alt="ThingSpeak" width="100px" height="50px" />
       </Col>
     </Row>
   );
