@@ -6,6 +6,10 @@ import PremierePro from "../../Assets/OtherAbout/premiere-pro.png";
 import CodeBlocks from "../../Assets/OtherAbout/codeblocks.png";
 import Designspark from "../../Assets/OtherAbout/designspark.png";
 import AndroidStudio from "../../Assets/OtherAbout/androidstudio.png";
+import Pictoblox from "../../Assets/OtherAbout/Pictoblox.png";
+import Scratch from "../../Assets/OtherAbout/scratch.jpeg";
+import TeachableMachine from "../../Assets/OtherAbout/TeachableMachine.png";
+import Thunkable from "../../Assets/OtherAbout/thunkable.png";
 
 function Otherstack() {
   return (
@@ -38,6 +42,27 @@ function Otherstack() {
           width="72px"
           height="50px"
         />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">Pictoblox</div>
+        <img src={Pictoblox} alt="AndroidStudio" width="72px" height="72px" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">Scratch</div>
+        <img src={Scratch} alt="AndroidStudio" width="72px" height="60px" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">Teachable Machine</div>
+        <img
+          src={TeachableMachine}
+          alt="AndroidStudio"
+          width="72px"
+          height="70px"
+        />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">Thunkable</div>
+        <img src={Thunkable} alt="AndroidStudio" width="72px" height="60px" />
       </Col>
     </Row>
   );

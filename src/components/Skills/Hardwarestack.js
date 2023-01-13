@@ -17,6 +17,7 @@ import ir from "../../Assets/Hardware/ir.png";
 import pir from "../../Assets/Hardware/pir.png";
 import sevensegment from "../../Assets/Hardware/sevensegment.png";
 import servomotor from "../../Assets/Hardware/servomotor.png";
+import Microbit from "../../Assets/Hardware/microbit.png";
 
 function Hardwarestack() {
   return (
@@ -93,6 +94,10 @@ function Hardwarestack() {
       <Col xs={4} md={2} className="tech-icons">
         <div className="text">Servo Motor SG90</div>
         <img src={servomotor} alt="servomotor" width="72px" height="72px" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">Microbit</div>
+        <img src={Microbit} alt="servomotor" width="72px" height="72px" />
       </Col>
     </Row>
   );
