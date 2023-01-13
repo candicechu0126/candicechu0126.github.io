@@ -5,6 +5,7 @@ import JoyAether from "../../Assets/CompanyLogo/joyaether.png";
 import Hkutdc from "../../Assets/CompanyLogo/hktdc.png";
 import YGN from "../../Assets/CompanyLogo/ygn.png";
 import msolution from "../../Assets/CompanyLogo/msolution.png";
+import cfs from "../../Assets/CompanyLogo/Cfslogo.png";
 
 export const Title = styled.text`
   color: #ffffff;
@@ -46,6 +47,11 @@ export default function IndustryExp() {
           src={msolution}
           alt="company logo4"
           style={{ width: "10rem", height: "8rem", alignSelf: "center" }}
+        />
+        <img
+          src={cfs}
+          alt="company logo5"
+          style={{ width: "9rem", height: "8rem", alignSelf: "center" }}
         />
       </Row>
     </Container>

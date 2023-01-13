@@ -10,19 +10,18 @@ function AboutCard() {
           <p style={{ textAlign: "initial" }}>
             Hi Everyone, I am <span className="purple">CHU Fong</span> from
             <span className="purple"> Hong Kong.</span>
-            <br />I am a final year bachelor’s degree student in Electronic
-            Engineering at the Hong Kong University of Science and Technology
-            and will graduate in this summer. Through my professional training
-            and studies, I have acquired knowledge and programming skills in
-            application or website design. During my studies, I completed
-            project and presentation on the smart shuttle bus and smart garbage,
-            which provided me with hands-on experience designing IOT-related
-            hardware and software combination technologies. This strengthened my
-            high-level analytical thinking and organizational skills
-            Additionally, my experience working as a web/mobile application
-            quality analyst has taught me how to effectively communicate product
-            concepts and techniques, and even how to test products and search
-            the solutions for the problems.
+            <br />I graduated with a bachelor degree in Electronic Engineering
+            from Hong Kong University of Science and Technology (HKUST). Through
+            my professional training and studies, I have acquired knowledge and
+            programming skills in application or website design. During my
+            studies, I completed project and presentation on the smart shuttle
+            bus and smart garbage, which provided me with hands-on experience
+            designing IOT-related hardware and software combination
+            technologies. This strengthened my high-level analytical thinking
+            and organizational skills Additionally, my experience working as a
+            web/mobile application quality analyst has taught me how to
+            effectively communicate product concepts and techniques, and even
+            how to test products and search the solutions for the problems.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

@@ -21,7 +21,7 @@ function About2() {
         </ul>
       </Container>
       <Container>
-        <h1 style={styles.title}>Experience</h1>
+        <h1 style={styles.title}>Working Experience</h1>
         <div style={styles.rowWork}>
           <div style={styles.exp}>
             <ul
@@ -53,7 +53,7 @@ function About2() {
             >
               <h4>Quality Analyst- Web/Mobile Application Intern</h4>
               <div style={styles.textName}>
-                JoyAether Limited (Dec 23, 2020 – Feby 3, 2021)
+                JoyAether Limited (Dec 23, 2020 – Feb 3, 2021)
               </div>
               <li>Business Information Collection</li>
               <li>Web / Mobile Application Testing</li>
@@ -70,7 +70,7 @@ function About2() {
             >
               <h4>STEM Assistant Coordinator Intern</h4>
               <div style={styles.textName}>
-                Youth Global Network (Jun 1, 2021-Present)
+                Youth Global Network (Jun 1, 2021 - Aug 29, 2022)
               </div>
               <li>Support of software platform and design recommendation</li>
               <li>Test ICT curricula for education platform</li>
@@ -90,12 +90,36 @@ function About2() {
             >
               <h4>Research and Teacher Assistant</h4>
               <div style={styles.textName}>
-                Youth Global Network (Sept 1, 2021-Present)
+                Youth Global Network (Sept 1, 2021 - Aug 29, 2022)
               </div>
               <li>Assist in software maintenance of youCodia products</li>
               <li>
                 Contribute to the design and development of new features in
                 youCodia system
+              </li>
+            </ul>
+          </div>
+          <div style={styles.exp}>
+            <ul
+              style={{
+                textAlign: "initial",
+                justifyContent: "space-around",
+                marginBottom: "1rem",
+              }}
+            >
+              <h4>ICT Teacher Assistant I</h4>
+              <div style={styles.textName}>
+                Caritas Fanling Chan Chun Ha Secondary School (Sept 1, 2022 -
+                Present)
+              </div>
+              <li>
+                Co-teach the major of Information and Communications Technology
+                (ICT S6)
+              </li>
+              <li>Co-teach the major of Innovative Technology (S1-S3)</li>
+              <li>
+                The junior form curriculum involves Artificiaj-lntelligence
+                Application and Drone Application.
               </li>
             </ul>
           </div>
@@ -110,6 +134,29 @@ function About2() {
           <li>IVElite sharing on student Learning Outcomes</li>
           <li>American Women’s Association Scholarship</li>
           <li>Rotary club of Channel Islands Scholarship</li>
+          <li>
+            Certificate of Participation on successful completion of
+            Introduction to Python from STEMpedia
+          </li>
+          <li>
+            Certificate of Completion in International Bootcamp on Coding,
+            Artificial Intelligence & Robotics for Educators from STEMpedia
+          </li>
+          <li>
+            Certificate of Completion in CSS Essential Training from LinkedIn
+            Learning
+          </li>
+          <li>
+            Certificate of Completion in HTML Essential Training from LinkedIn
+            Learning
+          </li>
+          <li>
+            Certificate of Completion in Learning Python from LinkedIn Learning
+          </li>
+          <li>Passed LinkedIn Skill Assessment in JavaScript</li>
+          <li>
+            Passed LinkedIn Skill Assessment in Python (Programming Language)
+          </li>
         </ul>
       </Container>
       <Container>
