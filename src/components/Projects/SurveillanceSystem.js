@@ -6,10 +6,23 @@ import PorjectDesign from "../../Assets/Projects/projectDesign_ibsp.png";
 import titleImg from "../../Assets/Projects/title/title5.png";
 
 const Title = styled.div`
-  text-align: center;
-  padding: 10px;
-  color: #7a87ff;
-  font-size: 24px;
+  text-align: left;
+  padding-top: 40px;
+  padding-left: 40px;
+  background-image: linear-gradient(
+    -225deg,
+    #ffffff 0%,
+    #c18cf9 29%,
+    #c46df7 67%,
+    #c46df7 100%
+  );
+  background-size: 200% auto;
+  color: #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: flex;
+  font-size: 50px !important;
+  font-weight: 800;
 `;
 
 const SubTitle = styled.div`

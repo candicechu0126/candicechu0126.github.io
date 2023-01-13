@@ -105,14 +105,14 @@ export default function PowerFitness() {
             changes.
           </Abstract>
         </Col>
-        <Col>
+        {/* <Col>
           <Title> System Diagram for Power Fitness</Title>
           <Abstract>
             A system block diagram is provided in Figure 2, below for a better
             illustration of “Power Fitness”. Our system includes three main
             parts: User Interface, Server and Hardware available (camera).
           </Abstract>
-        </Col>
+        </Col> */}
       </Container>
     </Container>
   );

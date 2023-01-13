@@ -16,8 +16,12 @@ function Home2() {
             </h1>
 
             <p className="home-about-body">
-              I am a final year <strong>Electronic Engineering</strong> student
-              at <strong>HKUST</strong>.
+              I graduated with a bachelor degree in{" "}
+              <strong>Electronic Engineering</strong> from{" "}
+              <strong>
+                Hong Kong University of Science and Technology (HKUST)
+              </strong>
+              .
               <br />
               <br />
               I fell in love with programming and I have at least learnt
