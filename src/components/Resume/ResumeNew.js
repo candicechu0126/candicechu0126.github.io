@@ -7,11 +7,15 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
-const resumeLink =
-  "https://raw.githubusercontent.com/candicechu0126/portfolio/main/src/Assets/candiceCHU_CV.pdf";
+// const resumeLink =
+//   "https://raw.githubusercontent.com/candicechu0126/portfolio/main/src/Assets/candiceCHU_CV.pdf";
+
+const resumeLink = "../src/Assets/candiceCHU_CV.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
+  // const screenWidth = window.screen.width;
+  // const screenHeight = window.screen.height;
 
   useEffect(() => {
     setWidth(window.innerWidth);
@@ -38,7 +42,7 @@ function ResumeNew() {
           </Document>
         </Row>
 
-        <Row style={{ justifyContent: "center", position: "relative" }}>
+        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
             href={pdf}
@@ -48,7 +52,7 @@ function ResumeNew() {
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
-        </Row>
+        </Row> */}
       </Container>
     </div>
   );

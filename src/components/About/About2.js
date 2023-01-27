@@ -136,11 +136,11 @@ function About2() {
           <li>Rotary club of Channel Islands Scholarship</li>
           <li>
             Certificate of Participation on successful completion of
-            Introduction to Python from STEMpedia
+            Introduction to Python by STEMpedia
           </li>
           <li>
             Certificate of Completion in International Bootcamp on Coding,
-            Artificial Intelligence & Robotics for Educators from STEMpedia
+            Artificial Intelligence & Robotics for Educators by STEMpedia
           </li>
           <li>
             Certificate of Completion in CSS Essential Training from LinkedIn
@@ -151,11 +151,21 @@ function About2() {
             Learning
           </li>
           <li>
-            Certificate of Completion in Learning Python from LinkedIn Learning
+            Certificate of Completion in Learning Python by LinkedIn Learning
           </li>
           <li>Passed LinkedIn Skill Assessment in JavaScript</li>
           <li>
             Passed LinkedIn Skill Assessment in Python (Programming Language)
+          </li>
+          <li>
+            Certificate of Completion in Professional Development for
+            Computational Thinking and App Inventor by MIT HONG KONG INNOVATION
+            NODE
+          </li>
+          <li>
+            Certificate of Completion 4 half-day workshop on Catering for
+            Diverse Learning Needs for TAs Working in Ordinary Schools by The
+            Education University of Hong Kong
           </li>
         </ul>
       </Container>
