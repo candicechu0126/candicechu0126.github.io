@@ -11,6 +11,7 @@ import Scratch from "../../Assets/OtherAbout/scratch.jpeg";
 import TeachableMachine from "../../Assets/OtherAbout/TeachableMachine.png";
 import Thunkable from "../../Assets/OtherAbout/thunkable.png";
 import ThingSpeak from "../../Assets/OtherAbout/ThingSpeak.jpeg";
+import Mindplus from "../../Assets/OtherAbout/mindplus.png";
 
 function Otherstack() {
   return (
@@ -63,11 +64,15 @@ function Otherstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div className="text">Thunkable</div>
-        <img src={Thunkable} alt="Thunkable" width="72px" height="60px" />
+        <img src={Thunkable} alt="Thunkable" width="80px" height="60px" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div className="text">ThingSpeak</div>
         <img src={ThingSpeak} alt="ThingSpeak" width="100px" height="50px" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">Mind +</div>
+        <img src={Mindplus} alt="Mindplus" width="100px" height="50px" />
       </Col>
     </Row>
   );
