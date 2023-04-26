@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.159ecad2.css",
-    "main.js": "/static/js/main.3eb01638.js",
+    "main.css": "/static/css/main.add6a3bd.css",
+    "main.js": "/static/js/main.08357bb5.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
     "static/media/project2_programChart.png": "/static/media/project2_programChart.2255786c58edc1d7f2fa.png",
@@ -31,7 +31,6 @@
     "static/media/DHT11.png": "/static/media/DHT11.d0405a05ddb5b1a10f07.png",
     "static/media/L298N.png": "/static/media/L298N.86a039daa6009056b841.png",
     "static/media/servomotor.png": "/static/media/servomotor.21611f747860c926278a.png",
-    "static/media/candiceCHU_CV.pdf": "/static/media/candiceCHU_CV.871fdf916d2c22d7f8e9.pdf",
     "static/media/projectDesign_ibsp.png": "/static/media/projectDesign_ibsp.87d0fb810ed25bf54ca1.png",
     "static/media/Tim.png": "/static/media/Tim.b582602f8a6818556642.png",
     "static/media/Candice.png": "/static/media/Candice.86579945a9ed06f45eb4.png",
@@ -65,12 +64,12 @@
     "static/media/thunkable.png": "/static/media/thunkable.9427fd38d8c8ef8d45cc.png",
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
-    "main.159ecad2.css.map": "/static/css/main.159ecad2.css.map",
-    "main.3eb01638.js.map": "/static/js/main.3eb01638.js.map",
+    "main.add6a3bd.css.map": "/static/css/main.add6a3bd.css.map",
+    "main.08357bb5.js.map": "/static/js/main.08357bb5.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.159ecad2.css",
-    "static/js/main.3eb01638.js"
+    "static/css/main.add6a3bd.css",
+    "static/js/main.08357bb5.js"
   ]
 }
