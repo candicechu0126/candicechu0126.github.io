@@ -78,6 +78,7 @@ function About2() {
                 Develop solution to the problems and implementation of STEM
                 curriculum
               </li>
+              <li>Teach students learn html, css, javascript</li>
             </ul>
           </div>
           <div style={styles.exp}>
@@ -107,7 +108,7 @@ function About2() {
                 marginBottom: "1rem",
               }}
             >
-              <h4>ICT Teacher Assistant I</h4>
+              <h4>ICT & MATH Teacher Assistant</h4>
               <div style={styles.textName}>
                 Caritas Fanling Chan Chun Ha Secondary School (Sept 1, 2022 -
                 Present)
@@ -121,6 +122,7 @@ function About2() {
                 The junior form curriculum involves Artificiaj-lntelligence
                 Application and Drone Application.
               </li>
+              <li>In charge of the 3D printing workshop</li>
             </ul>
           </div>
         </div>
@@ -195,6 +197,7 @@ const styles = {
     fontSize: "2.3em",
     fontWeight: 500,
     justifyContent: "center",
+    color: "#a0afff",
   },
 
   rowWork: {

@@ -95,7 +95,7 @@ function NavBar() {
                 to="/workexperiences"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Work
+                <CgFileDocument style={{ marginBottom: "2px" }} /> School
                 Experiences
               </Nav.Link>
             </Nav.Item>

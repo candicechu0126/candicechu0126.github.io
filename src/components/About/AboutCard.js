@@ -8,11 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "initial" }}>
-            Hi Everyone, I am <span className="purple">CHU Fong</span> from
-            <span className="purple"> Hong Kong.</span>
-            <br />I graduated with a bachelor degree in Electronic Engineering
-            from Hong Kong University of Science and Technology (HKUST). Through
-            my professional training and studies, I have acquired knowledge and
+            Hi Everyone, I am <span className="purple">CHU Fong</span> from Hong
+            Kong.
+            <br />I graduated with a bachelor degree in{" "}
+            <span className="purple">Electronic Engineering</span> from Hong
+            Kong University of Science and Technology (HKUST). Through my
+            professional training and studies, I have acquired knowledge and
             programming skills in application or website design. During my
             studies, I completed project and presentation on the smart shuttle
             bus and smart garbage, which provided me with hands-on experience
@@ -21,7 +22,9 @@ function AboutCard() {
             and organizational skills Additionally, my experience working as a
             web/mobile application quality analyst has taught me how to
             effectively communicate product concepts and techniques, and even
-            how to test products and search the solutions for the problems.
+            how to test products and search the solutions for the problems.In
+            addition, I have some teaching experience as well as talents in the
+            field of artificial intelligence.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
