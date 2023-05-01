@@ -169,6 +169,7 @@ function About2() {
             Diverse Learning Needs for TAs Working in Ordinary Schools by The
             Education University of Hong Kong
           </li>
+          <li>2022/23 HKU CITE Teacher Award</li>
         </ul>
       </Container>
       <Container>
