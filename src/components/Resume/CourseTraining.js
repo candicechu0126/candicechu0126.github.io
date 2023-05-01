@@ -2,65 +2,89 @@ import React from "react";
 import { Container } from "react-bootstrap";
 import img1 from "../../Assets/experiences/3dFood1.jpg";
 import MITCert from "../../Assets/experiences/MITCert.png";
+import ictHKACEworkshop from "../../Assets/experiences/ictHKACEworkshop.jpg";
+import HKCUAIOnSite from "../../Assets/experiences/HKCUAIOnSite.jpg";
+import basicAICourse from "../../Assets/experiences/basicAICourse.png";
+
 export default function CourseTraining() {
   return (
     <Container style={styles.containerStyle}>
       <h1 style={styles.title}>進修課程</h1>
+      {/* --------------------------------training course-------------------------------- */}
       <div style={styles.container}>
         <img src={MITCert} alt="Notebook" width="800px" style={styles.img} />
         <div style={styles.content}>
           <h3>MIT Node 運算思維App Inventor 混合式學習課程</h3>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat
             phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum
             maiestatis persequeris pro, pri ponderum tractatos ei.
-          </p>
+          </p> */}
         </div>
       </div>
+      {/* --------------------------------training course-------------------------------- */}
       <div style={styles.container}>
-        <img src={img1} alt="Notebook" width="800px" style={styles.img} />
+        <img
+          src={ictHKACEworkshop}
+          alt="Notebook"
+          width="800px"
+          style={styles.img}
+        />
         <div style={styles.content}>
           <h3>HKEAA x HKACE ICT考試擬題工作坊</h3>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat
             phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum
             maiestatis persequeris pro, pri ponderum tractatos ei.
-          </p>
+          </p> */}
         </div>
       </div>
+      {/* --------------------------------training course-------------------------------- */}
       <div style={styles.container}>
-        <img src={img1} alt="Notebook" width="800px" style={styles.img} />
+        <img
+          src={HKCUAIOnSite}
+          alt="Notebook"
+          width="800px"
+          style={styles.img}
+        />
         <div style={styles.content}>
           <h3>CUHK JC AI for Future Project - Onsite Teacher Workshop</h3>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat
             phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum
             maiestatis persequeris pro, pri ponderum tractatos ei.
-          </p>
+          </p> */}
         </div>
       </div>
+      {/* --------------------------------training course-------------------------------- */}
       <div style={styles.container}>
-        <img src={img1} alt="Notebook" width="800px" style={styles.img} />
+        <img
+          src={basicAICourse}
+          alt="Notebook"
+          width="800px"
+          style={styles.img}
+        />
         <div style={styles.content}>
           <h3>
-            人工智能初中介紹：熱工只能技術知識與課程規劃研討會及人工智能編程工作坊
+            人工智能初中教育介紹：人工智能技術知識與課程規劃研討會及人工智能編程工作坊
           </h3>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat
             phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum
             maiestatis persequeris pro, pri ponderum tractatos ei.
-          </p>
+          </p> */}
         </div>
       </div>
+      {/* --------------------------------training course-------------------------------- */}
       <div style={styles.container}>
         <img src={img1} alt="Notebook" width="800px" style={styles.img} />
         <div style={styles.content}>
           <h3>【照顧不同學習需要】普通學校教學助理培訓工作坊</h3>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat
             phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum
             maiestatis persequeris pro, pri ponderum tractatos ei.
-          </p>
+          </p> */}
         </div>
       </div>
     </Container>
