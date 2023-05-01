@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a0c544c.css",
-    "main.js": "/static/js/main.8ea0916f.js",
+    "main.js": "/static/js/main.1fe8be5d.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
     "static/media/infoDay3.jpg": "/static/media/infoDay3.4fdbc19c8297642fddae.jpg",
@@ -28,6 +28,7 @@
     "static/media/rasperrypi.png": "/static/media/rasperrypi.31c9159173ddb60527ea.png",
     "static/media/printing2.jpg": "/static/media/printing2.f9d355b299da52abab0c.jpg",
     "static/media/Flashforge.png": "/static/media/Flashforge.31ffcccf990a4961ea14.png",
+    "static/media/HKCUAIOnSite.jpg": "/static/media/HKCUAIOnSite.53e99881ae65424a27ca.jpg",
     "static/media/printing1.jpg": "/static/media/printing1.cb6d89c17bb60cb27f58.jpg",
     "static/media/HC-SR04.png": "/static/media/HC-SR04.0dd9929f9b9869313d18.png",
     "static/media/3dFood3.jpg": "/static/media/3dFood3.b09e8a048265c2c12576.jpg",
@@ -51,12 +52,14 @@
     "static/media/3-Axis.png": "/static/media/3-Axis.23af2664905232f31d25.png",
     "static/media/arduino.png": "/static/media/arduino.3664e2f931d72f0f1a81.png",
     "static/media/3dFood1.jpg": "/static/media/3dFood1.ae59e509d22e6f32d7e6.jpg",
+    "static/media/ictHKACEworkshop.jpg": "/static/media/ictHKACEworkshop.6d18e3ea03b80d55b617.jpg",
     "static/media/aisi3.jpg": "/static/media/aisi3.4c30ac468aec32408896.jpg",
     "static/media/DHT11.png": "/static/media/DHT11.d0405a05ddb5b1a10f07.png",
     "static/media/L298N.png": "/static/media/L298N.86a039daa6009056b841.png",
     "static/media/servomotor.png": "/static/media/servomotor.21611f747860c926278a.png",
     "static/media/fishFarming2.jpeg": "/static/media/fishFarming2.8ce732e28fc17cdfc039.jpeg",
     "static/media/aisi2.jpg": "/static/media/aisi2.012bdd1b707625ee5f96.jpg",
+    "static/media/basicAICourse.png": "/static/media/basicAICourse.e164db86c18040495a95.png",
     "static/media/g4g3.jpeg": "/static/media/g4g3.16ee37a59ac8c60e5fa2.jpeg",
     "static/media/projectDesign_ibsp.png": "/static/media/projectDesign_ibsp.87d0fb810ed25bf54ca1.png",
     "static/media/appInventor.png": "/static/media/appInventor.10869c1f26e37feba4ab.png",
@@ -93,11 +96,11 @@
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
     "main.2a0c544c.css.map": "/static/css/main.2a0c544c.css.map",
-    "main.8ea0916f.js.map": "/static/js/main.8ea0916f.js.map",
+    "main.1fe8be5d.js.map": "/static/js/main.1fe8be5d.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a0c544c.css",
-    "static/js/main.8ea0916f.js"
+    "static/js/main.1fe8be5d.js"
   ]
 }
