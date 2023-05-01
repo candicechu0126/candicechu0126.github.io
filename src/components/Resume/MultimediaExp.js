@@ -5,6 +5,7 @@ import banner from "../../Assets/experiences/infoDay2.jpg";
 import styled from "styled-components";
 import Card from "react-bootstrap/Card";
 import bluetooth from "../../Assets/experiences/bluetoothSpeaker.jpeg";
+import websiteDesign from "../../Assets/experiences/websiteDesign.jpg";
 
 export default function MultimediaExp() {
   return (
@@ -40,7 +41,7 @@ export default function MultimediaExp() {
 
           <Col md={4} className="project-card">
             <Card className="project-card-view">
-              <Card.Img variant="top" src={banner} alt="card-img" />
+              <Card.Img variant="top" src={websiteDesign} alt="card-img" />
               <Card.Body>
                 <Card.Title>網頁設計與製作</Card.Title>
                 <Card.Text style={{ textAlign: "justify" }}>
@@ -48,19 +49,6 @@ export default function MultimediaExp() {
                   <p style={styles.titleText}>
                     全港第二屆 AISI 比賽網頁設計與製作
                   </p>
-                </Card.Text>
-              </Card.Body>
-            </Card>
-          </Col>
-
-          <Col md={4} className="project-card">
-            <Card className="project-card-view">
-              <Card.Img variant="top" src={banner} alt="card-img" />
-              <Card.Body>
-                <Card.Title>資訊日Banner設計</Card.Title>
-                <Card.Text style={{ textAlign: "justify" }}>
-                  <p style={styles.titleText}>使用PhotoShop設計</p>
-                  <p style={styles.titleText}>公司報價及選購</p>
                 </Card.Text>
               </Card.Body>
             </Card>
