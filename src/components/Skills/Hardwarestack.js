@@ -18,6 +18,8 @@ import pir from "../../Assets/Hardware/pir.png";
 import sevensegment from "../../Assets/Hardware/sevensegment.png";
 import servomotor from "../../Assets/Hardware/servomotor.png";
 import Microbit from "../../Assets/Hardware/microbit.png";
+import Flashforge from "../../Assets/Hardware/Flashforge.png";
+import BambuPrinter from "../../Assets/Hardware/BambuPrinter.png";
 
 function Hardwarestack() {
   return (
@@ -97,7 +99,20 @@ function Hardwarestack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div className="text">Microbit</div>
-        <img src={Microbit} alt="servomotor" width="72px" height="72px" />
+        <img src={Microbit} alt="Microbit" width="72px" height="72px" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">Flashforge 3D Printer</div>
+        <img
+          src={Flashforge}
+          alt="servFlashforgeomotor"
+          width="72px"
+          height="72px"
+        />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">Bambu Carbon X1 Combo </div>
+        <img src={BambuPrinter} alt="Bambu" width="72px" height="72px" />
       </Col>
     </Row>
   );

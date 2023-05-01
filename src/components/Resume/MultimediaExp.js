@@ -1,8 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "../Projects/ProjectCards";
 import banner from "../../Assets/experiences/infoDay2.jpg";
-import styled from "styled-components";
 import Card from "react-bootstrap/Card";
 import bluetooth from "../../Assets/experiences/bluetoothSpeaker.jpeg";
 import websiteDesign from "../../Assets/experiences/websiteDesign.jpg";

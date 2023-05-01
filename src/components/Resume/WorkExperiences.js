@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Activity from "./Activity";
 import MultimediaExp from "./MultimediaExp";
+import CourseTraining from "./CourseTraining";
 
 function WorkExperiences() {
   return (
@@ -9,6 +10,7 @@ function WorkExperiences() {
       <Container>
         <Activity />
         <MultimediaExp />
+        <CourseTraining />
       </Container>
     </Container>
   );

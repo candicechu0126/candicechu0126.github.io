@@ -12,6 +12,7 @@ import TeachableMachine from "../../Assets/OtherAbout/TeachableMachine.png";
 import Thunkable from "../../Assets/OtherAbout/thunkable.png";
 import ThingSpeak from "../../Assets/OtherAbout/ThingSpeak.jpeg";
 import Mindplus from "../../Assets/OtherAbout/mindplus.png";
+import AppInventor from "../../Assets/OtherAbout/appInventor.png";
 
 function Otherstack() {
   return (
@@ -73,6 +74,10 @@ function Otherstack() {
       <Col xs={4} md={2} className="tech-icons">
         <div className="text">Mind +</div>
         <img src={Mindplus} alt="Mindplus" width="100px" height="50px" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">App Inventor</div>
+        <img src={AppInventor} alt="AppInventor" width="72px" height="72px" />
       </Col>
     </Row>
   );

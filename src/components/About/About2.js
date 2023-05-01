@@ -160,6 +160,9 @@ function About2() {
             Passed LinkedIn Skill Assessment in Python (Programming Language)
           </li>
           <li>
+            Certificate of Completion in 2-hours Mentoring Training Program
+          </li>
+          <li>
             Certificate of Completion in Professional Development for
             Computational Thinking and App Inventor by MIT HONG KONG INNOVATION
             NODE
