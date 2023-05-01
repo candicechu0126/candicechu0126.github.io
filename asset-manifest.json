@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a0c544c.css",
-    "main.js": "/static/js/main.c9cf20da.js",
+    "main.js": "/static/js/main.2c0415d5.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
     "static/media/infoDay3.jpg": "/static/media/infoDay3.4fdbc19c8297642fddae.jpg",
@@ -11,6 +11,7 @@
     "static/media/project2_programChart.png": "/static/media/project2_programChart.2255786c58edc1d7f2fa.png",
     "static/media/fishFarming1.jpg": "/static/media/fishFarming1.94c32cc261c15a7ab336.jpg",
     "static/media/infoDay2.jpg": "/static/media/infoDay2.da19a4118d5f3c998fdc.jpg",
+    "static/media/websiteDesign.jpg": "/static/media/websiteDesign.282db8d4b6c81cae0eef.jpg",
     "static/media/candiceImg.jpg": "/static/media/candiceImg.ff65935f7c5cff7245ac.jpg",
     "static/media/about.jpg": "/static/media/about.e69b0ead85ad315b4498.jpg",
     "static/media/project2_circuit2.png": "/static/media/project2_circuit2.604dd72b2e6474475087.png",
@@ -88,11 +89,11 @@
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
     "main.2a0c544c.css.map": "/static/css/main.2a0c544c.css.map",
-    "main.c9cf20da.js.map": "/static/js/main.c9cf20da.js.map",
+    "main.2c0415d5.js.map": "/static/js/main.2c0415d5.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a0c544c.css",
-    "static/js/main.c9cf20da.js"
+    "static/js/main.2c0415d5.js"
   ]
 }
