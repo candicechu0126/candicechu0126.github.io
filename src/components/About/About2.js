@@ -108,7 +108,7 @@ function About2() {
                 marginBottom: "1rem",
               }}
             >
-              <h4>ICT & MATH Teacher Assistant</h4>
+              <h4>ICT & MATH Teacher Assistant I</h4>
               <div style={styles.textName}>
                 Caritas Fanling Chan Chun Ha Secondary School (Sept 1, 2022 -
                 Present)
