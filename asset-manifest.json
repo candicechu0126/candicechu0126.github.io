@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.2a0c544c.css",
-    "main.js": "/static/js/main.390cec46.js",
+    "main.js": "/static/js/main.6a5dd21c.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
+    "static/media/fishFarming4.jpg": "/static/media/fishFarming4.32b4d07539dfca67bb96.jpg",
     "static/media/project2_programChart.png": "/static/media/project2_programChart.2255786c58edc1d7f2fa.png",
+    "static/media/fishFarming1.jpg": "/static/media/fishFarming1.94c32cc261c15a7ab336.jpg",
     "static/media/candiceImg.jpg": "/static/media/candiceImg.ff65935f7c5cff7245ac.jpg",
     "static/media/about.jpg": "/static/media/about.e69b0ead85ad315b4498.jpg",
     "static/media/project2_circuit2.png": "/static/media/project2_circuit2.604dd72b2e6474475087.png",
+    "static/media/fishFarming3.jpg": "/static/media/fishFarming3.2e1564350ab4ed94073c.jpg",
     "static/media/pir.png": "/static/media/pir.764dbf7cd98afc085a54.png",
     "static/media/tiltsensor.png": "/static/media/tiltsensor.efe993465598fbfea278.png",
     "static/media/LM35.png": "/static/media/LM35.57b0b6d15c846d664301.png",
@@ -32,7 +35,7 @@
     "static/media/DHT11.png": "/static/media/DHT11.d0405a05ddb5b1a10f07.png",
     "static/media/L298N.png": "/static/media/L298N.86a039daa6009056b841.png",
     "static/media/servomotor.png": "/static/media/servomotor.21611f747860c926278a.png",
-    "static/media/g4g1.jpeg": "/static/media/g4g1.8ce732e28fc17cdfc039.jpeg",
+    "static/media/fishFarming2.jpeg": "/static/media/fishFarming2.8ce732e28fc17cdfc039.jpeg",
     "static/media/g4g3.jpeg": "/static/media/g4g3.16ee37a59ac8c60e5fa2.jpeg",
     "static/media/projectDesign_ibsp.png": "/static/media/projectDesign_ibsp.87d0fb810ed25bf54ca1.png",
     "static/media/Tim.png": "/static/media/Tim.b582602f8a6818556642.png",
@@ -68,11 +71,11 @@
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
     "main.2a0c544c.css.map": "/static/css/main.2a0c544c.css.map",
-    "main.390cec46.js.map": "/static/js/main.390cec46.js.map",
+    "main.6a5dd21c.js.map": "/static/js/main.6a5dd21c.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a0c544c.css",
-    "static/js/main.390cec46.js"
+    "static/js/main.6a5dd21c.js"
   ]
 }
