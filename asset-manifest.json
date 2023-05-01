@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a0c544c.css",
-    "main.js": "/static/js/main.2c0415d5.js",
+    "main.js": "/static/js/main.8ea0916f.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
     "static/media/infoDay3.jpg": "/static/media/infoDay3.4fdbc19c8297642fddae.jpg",
@@ -16,6 +16,7 @@
     "static/media/about.jpg": "/static/media/about.e69b0ead85ad315b4498.jpg",
     "static/media/project2_circuit2.png": "/static/media/project2_circuit2.604dd72b2e6474475087.png",
     "static/media/fishFarming3.jpg": "/static/media/fishFarming3.2e1564350ab4ed94073c.jpg",
+    "static/media/MITCert.png": "/static/media/MITCert.bed397b62485282536d2.png",
     "static/media/pir.png": "/static/media/pir.764dbf7cd98afc085a54.png",
     "static/media/tiltsensor.png": "/static/media/tiltsensor.efe993465598fbfea278.png",
     "static/media/LM35.png": "/static/media/LM35.57b0b6d15c846d664301.png",
@@ -26,6 +27,7 @@
     "static/media/hc05.png": "/static/media/hc05.3e94d132d509b7d6d4b1.png",
     "static/media/rasperrypi.png": "/static/media/rasperrypi.31c9159173ddb60527ea.png",
     "static/media/printing2.jpg": "/static/media/printing2.f9d355b299da52abab0c.jpg",
+    "static/media/Flashforge.png": "/static/media/Flashforge.31ffcccf990a4961ea14.png",
     "static/media/printing1.jpg": "/static/media/printing1.cb6d89c17bb60cb27f58.jpg",
     "static/media/HC-SR04.png": "/static/media/HC-SR04.0dd9929f9b9869313d18.png",
     "static/media/3dFood3.jpg": "/static/media/3dFood3.b09e8a048265c2c12576.jpg",
@@ -35,6 +37,7 @@
     "static/media/studentkit.png": "/static/media/studentkit.2b9c9736b4ef283098b5.png",
     "static/media/project2_circuit1.png": "/static/media/project2_circuit1.826255cc3e08f436f4b2.png",
     "static/media/printing3.jpg": "/static/media/printing3.3452f95f0b4d4c4ba107.jpg",
+    "static/media/BambuPrinter.png": "/static/media/BambuPrinter.db81d2592cc6f35acbb9.png",
     "static/media/3dFood2.jpg": "/static/media/3dFood2.31c1dd4c4e879e2531c8.jpg",
     "static/media/g4g2.jpeg": "/static/media/g4g2.f4b14b350679ee5ec42f.jpeg",
     "static/media/3dFood4.jpg": "/static/media/3dFood4.3bcf65d6ed9f6aa47d1f.jpg",
@@ -56,6 +59,7 @@
     "static/media/aisi2.jpg": "/static/media/aisi2.012bdd1b707625ee5f96.jpg",
     "static/media/g4g3.jpeg": "/static/media/g4g3.16ee37a59ac8c60e5fa2.jpeg",
     "static/media/projectDesign_ibsp.png": "/static/media/projectDesign_ibsp.87d0fb810ed25bf54ca1.png",
+    "static/media/appInventor.png": "/static/media/appInventor.10869c1f26e37feba4ab.png",
     "static/media/Tim.png": "/static/media/Tim.b582602f8a6818556642.png",
     "static/media/Candice.png": "/static/media/Candice.86579945a9ed06f45eb4.png",
     "static/media/Gordon.png": "/static/media/Gordon.32c3c9eb717a44ad14b9.png",
@@ -89,11 +93,11 @@
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
     "main.2a0c544c.css.map": "/static/css/main.2a0c544c.css.map",
-    "main.2c0415d5.js.map": "/static/js/main.2c0415d5.js.map",
+    "main.8ea0916f.js.map": "/static/js/main.8ea0916f.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a0c544c.css",
-    "static/js/main.2c0415d5.js"
+    "static/js/main.8ea0916f.js"
   ]
 }
