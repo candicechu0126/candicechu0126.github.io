@@ -1,10 +1,10 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import img1 from "../../Assets/experiences/3dFood1.jpg";
 import MITCert from "../../Assets/experiences/MITCert.png";
 import ictHKACEworkshop from "../../Assets/experiences/ictHKACEworkshop.jpg";
 import HKCUAIOnSite from "../../Assets/experiences/HKCUAIOnSite.jpg";
 import basicAICourse from "../../Assets/experiences/basicAICourse.png";
+import semTraining from "../../Assets/experiences/semTraining.jpg";
 
 export default function CourseTraining() {
   return (
@@ -77,7 +77,12 @@ export default function CourseTraining() {
       </div>
       {/* --------------------------------training course-------------------------------- */}
       <div style={styles.container}>
-        <img src={img1} alt="Notebook" width="800px" style={styles.img} />
+        <img
+          src={semTraining}
+          alt="Notebook"
+          width="800px"
+          style={styles.img}
+        />
         <div style={styles.content}>
           <h3>【照顧不同學習需要】普通學校教學助理培訓工作坊</h3>
           {/* <p>
