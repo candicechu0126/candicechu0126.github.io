@@ -14,6 +14,22 @@ import fishFarming3 from "../../Assets/experiences/fishFarming3.jpg";
 import fishFarming4 from "../../Assets/experiences/fishFarming4.jpg";
 import G4G2 from "../../Assets/experiences/g4g2.jpeg";
 import G4G3 from "../../Assets/experiences/g4g3.jpeg";
+import teen1 from "../../Assets/experiences/teen1.jpeg";
+import teen2 from "../../Assets/experiences/teen2.jpeg";
+import aisi1 from "../../Assets/experiences/aisi1.jpg";
+import aisi2 from "../../Assets/experiences/aisi2.jpg";
+import aisi3 from "../../Assets/experiences/aisi3.jpg";
+import Food1 from "../../Assets/experiences/3dFood1.jpg";
+import Food2 from "../../Assets/experiences/3dFood2.jpg";
+import Food3 from "../../Assets/experiences/3dFood3.jpg";
+import Food4 from "../../Assets/experiences/3dFood4.jpg";
+import printing1 from "../../Assets/experiences/printing1.jpg";
+import printing2 from "../../Assets/experiences/printing2.jpg";
+import printing3 from "../../Assets/experiences/printing3.jpg";
+import printing4 from "../../Assets/experiences/printing4.jpg";
+import infoDay1 from "../../Assets/experiences/infoDay1.jpg";
+import infoDay2 from "../../Assets/experiences/infoDay2.jpg";
+import infoDay3 from "../../Assets/experiences/infoDay3.jpg";
 
 export default function Activity() {
   return (
@@ -105,11 +121,11 @@ export default function Activity() {
             <Slide>
               <div style={styles.eachSlideEffect}>
                 <span>1/2</span>
-                <img class="w-100 shadow" src={G4G2} />
+                <img class="w-100 shadow" src={teen2} />
               </div>
               <div style={styles.eachSlideEffect}>
                 <span>2/2</span>
-                <img class="w-100 shadow" src={G4G3} />
+                <img class="w-100 shadow" src={teen1} />
               </div>
             </Slide>
           </div>
@@ -159,20 +175,16 @@ export default function Activity() {
           <div class="col-lg-6">
             <Slide>
               <div style={styles.eachSlideEffect}>
-                <span>1/4</span>
-                <img class="w-100 shadow" src={fishFarming1} />
+                <span>1/3</span>
+                <img class="w-100 shadow" src={aisi1} />
               </div>
               <div style={styles.eachSlideEffect}>
-                <span>2/4</span>
-                <img class="w-100 shadow" src={fishFarming2} />
+                <span>2/3</span>
+                <img class="w-100 shadow" src={aisi2} />
               </div>
               <div style={styles.eachSlideEffect}>
-                <span>3/4</span>
-                <img class="w-100 shadow" src={fishFarming3} />
-              </div>
-              <div style={styles.eachSlideEffect}>
-                <span>4/4</span>
-                <img class="w-100 shadow" src={fishFarming4} />
+                <span>3/3</span>
+                <img class="w-100 shadow" src={aisi3} />
               </div>
             </Slide>
           </div>
@@ -185,12 +197,20 @@ export default function Activity() {
           <div class="col-lg-6">
             <Slide>
               <div style={styles.eachSlideEffect}>
-                <span>1/2</span>
-                <img class="w-100 shadow" src={G4G2} />
+                <span>1/4</span>
+                <img class="w-100 shadow" src={Food1} />
               </div>
               <div style={styles.eachSlideEffect}>
-                <span>2/2</span>
-                <img class="w-100 shadow" src={G4G3} />
+                <span>2/4</span>
+                <img class="w-100 shadow" src={Food2} />
+              </div>
+              <div style={styles.eachSlideEffect}>
+                <span>3/4</span>
+                <img class="w-100 shadow" src={Food3} />
+              </div>
+              <div style={styles.eachSlideEffect}>
+                <span>4/4</span>
+                <img class="w-100 shadow" src={Food4} />
               </div>
             </Slide>
           </div>
@@ -246,19 +266,19 @@ export default function Activity() {
             <Slide>
               <div style={styles.eachSlideEffect}>
                 <span>1/4</span>
-                <img class="w-100 shadow" src={fishFarming1} />
+                <img class="w-100 shadow" src={printing1} />
               </div>
               <div style={styles.eachSlideEffect}>
                 <span>2/4</span>
-                <img class="w-100 shadow" src={fishFarming2} />
+                <img class="w-100 shadow" src={printing2} />
               </div>
               <div style={styles.eachSlideEffect}>
                 <span>3/4</span>
-                <img class="w-100 shadow" src={fishFarming3} />
+                <img class="w-100 shadow" src={printing3} />
               </div>
               <div style={styles.eachSlideEffect}>
                 <span>4/4</span>
-                <img class="w-100 shadow" src={fishFarming4} />
+                <img class="w-100 shadow" src={printing4} />
               </div>
             </Slide>
           </div>
@@ -271,12 +291,16 @@ export default function Activity() {
           <div class="col-lg-6">
             <Slide>
               <div style={styles.eachSlideEffect}>
-                <span>1/2</span>
-                <img class="w-100 shadow" src={G4G2} />
+                <span>1/3</span>
+                <img class="w-100 shadow" src={infoDay1} />
               </div>
               <div style={styles.eachSlideEffect}>
-                <span>2/2</span>
-                <img class="w-100 shadow" src={G4G3} />
+                <span>2/3</span>
+                <img class="w-100 shadow" src={infoDay2} />
+              </div>
+              <div style={styles.eachSlideEffect}>
+                <span>3/3</span>
+                <img class="w-100 shadow" src={infoDay3} />
               </div>
             </Slide>
           </div>
@@ -292,6 +316,12 @@ export default function Activity() {
                 <h4>擔任角色</h4>
                 <p class="lead">
                   <AiOutlineUser /> 活動負責老師
+                </p>
+                <h4>工作內容</h4>
+                <p class="lead">
+                  <AiOutlineApi />
+                  資訊日Banner設計及選購 <AiOutlineApi />
+                  人工智能課程工作坊輔助教學{" "}
                 </p>
               </div>
             </div>
