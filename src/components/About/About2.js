@@ -193,7 +193,6 @@ const styles = {
   title: {
     paddingBottom: "30px",
     paddingTop: "50px",
-    color: "white",
     fontSize: "2.3em",
     fontWeight: 500,
     justifyContent: "center",
