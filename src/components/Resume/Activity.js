@@ -251,7 +251,7 @@ export default function Activity() {
                 </p>
                 <h4>擔任角色</h4>
                 <p class="lead">
-                  <AiOutlineUser /> 負責老師
+                  <AiOutlineUser /> 教學老師
                 </p>
                 <h4>工作內容</h4>
                 <p class="lead">
