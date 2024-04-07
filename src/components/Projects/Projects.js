@@ -15,7 +15,7 @@ export const Description = styled.div`
   padding: 5px;
 `;
 
-function Projects() {
+export default function Projects() {
   return (
     <Container fluid className="project-section">
       <Container>
@@ -100,5 +100,3 @@ function Projects() {
     </Container>
   );
 }
-
-export default Projects;

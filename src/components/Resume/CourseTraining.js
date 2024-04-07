@@ -7,7 +7,7 @@ import basicAICourse from "../../Assets/experiences/basicAICourse.png";
 
 export default function CourseTraining() {
   return (
-    <Container style={styles.containerStyle}>
+    <Container fluid className="project-section">
       <h1 style={styles.title}>進修課程</h1>
       {/* --------------------------------training course-------------------------------- */}
       <div style={styles.container}>

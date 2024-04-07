@@ -18,8 +18,11 @@ import pir from "../../Assets/Hardware/pir.png";
 import sevensegment from "../../Assets/Hardware/sevensegment.png";
 import servomotor from "../../Assets/Hardware/servomotor.png";
 import Microbit from "../../Assets/Hardware/microbit.png";
-import Flashforge from "../../Assets/Hardware/Flashforge.png";
+import soldering from "../../Assets/Hardware/soldering.jpeg";
+import kittenbot from "../../Assets/Hardware/kittenbot.webp";
 import BambuPrinter from "../../Assets/Hardware/BambuPrinter.png";
+import HuskyLens from "../../Assets/Hardware/HuskyLens.png";
+import AISoundSpeaker from "../../Assets/Hardware/AISoundSpeaker.png";
 
 function Hardwarestack() {
   return (
@@ -101,7 +104,7 @@ function Hardwarestack() {
         <div className="text">Microbit</div>
         <img src={Microbit} alt="Microbit" width="72px" height="72px" />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      {/* <Col xs={4} md={2} className="tech-icons">
         <div className="text">Flashforge 3D Printer</div>
         <img
           src={Flashforge}
@@ -109,10 +112,31 @@ function Hardwarestack() {
           width="72px"
           height="72px"
         />
+      </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">3D Printer </div>
+        <img src={BambuPrinter} alt="Bambu" width="72px" height="72px" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <div className="text">Bambu Carbon X1 Combo </div>
-        <img src={BambuPrinter} alt="Bambu" width="72px" height="72px" />
+        <div className="text">AI Sound Speaker</div>
+        <img
+          src={AISoundSpeaker}
+          alt="AISoundSpeaker"
+          width="72px"
+          height="72px"
+        />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">HuskyLens AI 視覺感測器</div>
+        <img src={HuskyLens} alt="HuskyLens" width="72px" height="72px" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">AI Kittenbot KOI</div>
+        <img src={kittenbot} alt="Kittenbot KOI" width="72px" height="72px" />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="text">電子焊接</div>
+        <img src={soldering} alt="soldering" width="100px" height="72px" />
       </Col>
     </Row>
   );
