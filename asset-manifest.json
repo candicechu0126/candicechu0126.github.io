@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a0c544c.css",
-    "main.js": "/static/js/main.ca4553cb.js",
+    "main.css": "/static/css/main.e19fb69d.css",
+    "main.js": "/static/js/main.9dc01740.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
     "static/media/infoDay3.jpg": "/static/media/infoDay3.4fdbc19c8297642fddae.jpg",
@@ -26,7 +26,6 @@
     "static/media/printing4.jpg": "/static/media/printing4.21d798fbe0bb1efb78ed.jpg",
     "static/media/hc05.png": "/static/media/hc05.3e94d132d509b7d6d4b1.png",
     "static/media/rasperrypi.png": "/static/media/rasperrypi.31c9159173ddb60527ea.png",
-    "static/media/semTraining.jpg": "/static/media/semTraining.f71bed3ac0da6381c8b8.jpg",
     "static/media/printing2.jpg": "/static/media/printing2.f9d355b299da52abab0c.jpg",
     "static/media/Flashforge.png": "/static/media/Flashforge.31ffcccf990a4961ea14.png",
     "static/media/HKCUAIOnSite.jpg": "/static/media/HKCUAIOnSite.53e99881ae65424a27ca.jpg",
@@ -96,12 +95,12 @@
     "static/media/thunkable.png": "/static/media/thunkable.9427fd38d8c8ef8d45cc.png",
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
-    "main.2a0c544c.css.map": "/static/css/main.2a0c544c.css.map",
-    "main.ca4553cb.js.map": "/static/js/main.ca4553cb.js.map",
+    "main.e19fb69d.css.map": "/static/css/main.e19fb69d.css.map",
+    "main.9dc01740.js.map": "/static/js/main.9dc01740.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a0c544c.css",
-    "static/js/main.ca4553cb.js"
+    "static/css/main.e19fb69d.css",
+    "static/js/main.9dc01740.js"
   ]
 }
