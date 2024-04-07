@@ -321,7 +321,7 @@ export default function Activity() {
                 <p class="lead">
                   <AiOutlineApi />
                   資訊日Banner設計及選購 <AiOutlineApi />
-                  人工智能課程工作坊輔助教學{" "}
+                  人工智能課程工作坊教學{" "}
                 </p>
               </div>
             </div>
