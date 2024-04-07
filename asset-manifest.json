@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e19fb69d.css",
-    "main.js": "/static/js/main.1cb3f3ec.js",
+    "main.js": "/static/js/main.cd8142da.js",
     "static/js/787.8dd12163.chunk.js": "/static/js/787.8dd12163.chunk.js",
     "static/media/petcarrier.png": "/static/media/petcarrier.857ae14888e8c0f4c4af.png",
     "static/media/infoDay3.jpg": "/static/media/infoDay3.4fdbc19c8297642fddae.jpg",
@@ -27,7 +27,6 @@
     "static/media/hc05.png": "/static/media/hc05.3e94d132d509b7d6d4b1.png",
     "static/media/rasperrypi.png": "/static/media/rasperrypi.31c9159173ddb60527ea.png",
     "static/media/printing2.jpg": "/static/media/printing2.f9d355b299da52abab0c.jpg",
-    "static/media/Flashforge.png": "/static/media/Flashforge.31ffcccf990a4961ea14.png",
     "static/media/HKCUAIOnSite.jpg": "/static/media/HKCUAIOnSite.53e99881ae65424a27ca.jpg",
     "static/media/printing1.jpg": "/static/media/printing1.cb6d89c17bb60cb27f58.jpg",
     "static/media/HC-SR04.png": "/static/media/HC-SR04.0dd9929f9b9869313d18.png",
@@ -53,6 +52,7 @@
     "static/media/arduino.png": "/static/media/arduino.3664e2f931d72f0f1a81.png",
     "static/media/3dFood1.jpg": "/static/media/3dFood1.ae59e509d22e6f32d7e6.jpg",
     "static/media/ictHKACEworkshop.jpg": "/static/media/ictHKACEworkshop.6d18e3ea03b80d55b617.jpg",
+    "static/media/soldering.jpeg": "/static/media/soldering.cd34a91dea2da14418e1.jpeg",
     "static/media/aisi3.jpg": "/static/media/aisi3.4c30ac468aec32408896.jpg",
     "static/media/DHT11.png": "/static/media/DHT11.d0405a05ddb5b1a10f07.png",
     "static/media/L298N.png": "/static/media/L298N.86a039daa6009056b841.png",
@@ -63,6 +63,7 @@
     "static/media/g4g3.jpeg": "/static/media/g4g3.16ee37a59ac8c60e5fa2.jpeg",
     "static/media/projectDesign_ibsp.png": "/static/media/projectDesign_ibsp.87d0fb810ed25bf54ca1.png",
     "static/media/appInventor.png": "/static/media/appInventor.10869c1f26e37feba4ab.png",
+    "static/media/makecode.png": "/static/media/makecode.fd58484cf0544b21d2bf.png",
     "static/media/Tim.png": "/static/media/Tim.b582602f8a6818556642.png",
     "static/media/Candice.png": "/static/media/Candice.86579945a9ed06f45eb4.png",
     "static/media/Gordon.png": "/static/media/Gordon.32c3c9eb717a44ad14b9.png",
@@ -73,6 +74,7 @@
     "static/media/sevensegment.png": "/static/media/sevensegment.573c2ee97b65f92c5807.png",
     "static/media/Cfslogo.png": "/static/media/Cfslogo.d227b40948fc06ef5741.png",
     "static/media/avatar.png": "/static/media/avatar.3386ef17805bcb515359.png",
+    "static/media/HuskyLens.png": "/static/media/HuskyLens.df47cdb6861456dd2c14.png",
     "static/media/msolution.png": "/static/media/msolution.f26c8f93d122f45a9378.png",
     "static/media/scratch.jpeg": "/static/media/scratch.00936543a9b041882ebc.jpeg",
     "static/media/androidstudio.png": "/static/media/androidstudio.44287d3d3e46858875f9.png",
@@ -84,6 +86,7 @@
     "static/media/Pictoblox.png": "/static/media/Pictoblox.cf2431fa045fd197ddc1.png",
     "static/media/tinkercad.png": "/static/media/tinkercad.f72789a459d874f8470a.png",
     "static/media/ygn.png": "/static/media/ygn.b36994f69183bffa0e12.png",
+    "static/media/kittenbot.webp": "/static/media/kittenbot.b955a92b1c3901131313.webp",
     "static/media/home-bg.jpg": "/static/media/home-bg.0ba2bf6929be043c434d.jpg",
     "static/media/logo.svg": "/static/media/logo.c829d64f1f10afea06f2b2d58b324bc0.svg",
     "static/media/premiere-pro.png": "/static/media/premiere-pro.b4f3d13c8b2109b550b2.png",
@@ -92,15 +95,16 @@
     "static/media/title3.png": "/static/media/title3.e9d010336267f98a1f65.png",
     "static/media/title6.png": "/static/media/title6.a9f7ed26b25881fa8e43.png",
     "static/media/TeachableMachine.png": "/static/media/TeachableMachine.551857188efed8e72998.png",
+    "static/media/AISoundSpeaker.png": "/static/media/AISoundSpeaker.a7ecb04060e35c7e7ed4.png",
     "static/media/thunkable.png": "/static/media/thunkable.9427fd38d8c8ef8d45cc.png",
     "static/media/pre.svg": "/static/media/pre.45f9258a221b9868d575.svg",
     "index.html": "/index.html",
     "main.e19fb69d.css.map": "/static/css/main.e19fb69d.css.map",
-    "main.1cb3f3ec.js.map": "/static/js/main.1cb3f3ec.js.map",
+    "main.cd8142da.js.map": "/static/js/main.cd8142da.js.map",
     "787.8dd12163.chunk.js.map": "/static/js/787.8dd12163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e19fb69d.css",
-    "static/js/main.1cb3f3ec.js"
+    "static/js/main.cd8142da.js"
   ]
 }
