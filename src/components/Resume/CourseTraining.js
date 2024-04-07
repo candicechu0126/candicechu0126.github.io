@@ -4,7 +4,6 @@ import MITCert from "../../Assets/experiences/MITCert.png";
 import ictHKACEworkshop from "../../Assets/experiences/ictHKACEworkshop.jpg";
 import HKCUAIOnSite from "../../Assets/experiences/HKCUAIOnSite.jpg";
 import basicAICourse from "../../Assets/experiences/basicAICourse.png";
-import semTraining from "../../Assets/experiences/semTraining.jpg";
 
 export default function CourseTraining() {
   return (
@@ -49,14 +48,8 @@ export default function CourseTraining() {
         />
         <div style={styles.content}>
           <h3>CUHK JC AI for Future Project - Onsite Teacher Workshop</h3>
-          {/* <p>
-            Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat
-            phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum
-            maiestatis persequeris pro, pri ponderum tractatos ei.
-          </p> */}
         </div>
       </div>
-      {/* --------------------------------training course-------------------------------- */}
       <div style={styles.container}>
         <img
           src={basicAICourse}
@@ -68,28 +61,6 @@ export default function CourseTraining() {
           <h3>
             人工智能初中教育介紹：人工智能技術知識與課程規劃研討會及人工智能編程工作坊
           </h3>
-          {/* <p>
-            Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat
-            phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum
-            maiestatis persequeris pro, pri ponderum tractatos ei.
-          </p> */}
-        </div>
-      </div>
-      {/* --------------------------------training course-------------------------------- */}
-      <div style={styles.container}>
-        <img
-          src={semTraining}
-          alt="Notebook"
-          width="800px"
-          style={styles.img}
-        />
-        <div style={styles.content}>
-          <h3>【照顧不同學習需要】普通學校教學助理培訓工作坊</h3>
-          {/* <p>
-            Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat
-            phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum
-            maiestatis persequeris pro, pri ponderum tractatos ei.
-          </p> */}
         </div>
       </div>
     </Container>
