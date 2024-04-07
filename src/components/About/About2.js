@@ -21,7 +21,7 @@ function About2() {
         </ul>
       </Container>
       <Container>
-        <h1 style={styles.title}>Working Experience</h1>
+        <h1 style={styles.title}>Working Experience 工作經驗</h1>
         <div style={styles.rowWork}>
           <div style={styles.exp}>
             <ul
@@ -111,7 +111,7 @@ function About2() {
               <h4>ICT & MATH Teacher Assistant I</h4>
               <div style={styles.textName}>
                 Caritas Fanling Chan Chun Ha Secondary School (Sept 1, 2022 -
-                Present)
+                Aug 30, 2023)
               </div>
               <li>
                 Co-teach the major of Information and Communications Technology
@@ -125,10 +125,35 @@ function About2() {
               <li>In charge of the 3D printing workshop</li>
             </ul>
           </div>
+          <div style={styles.exp}>
+            <ul
+              style={{
+                textAlign: "initial",
+                justifyContent: "space-around",
+                marginBottom: "1rem",
+              }}
+            >
+              <h4>GM Teacher - 資訊及通訊科技科 & 創新科技科</h4>
+              <div style={styles.textName}>
+                Caritas Fanling Chan Chun Ha Secondary School (Sept 1, 2023 -
+                Present)
+              </div>
+              <li>高中 DSE ICT課程</li>
+              <li>初中創新科技科</li>
+              <li>中一課程統籌</li>
+            </ul>
+          </div>
         </div>
       </Container>
       <Container>
-        <h1 style={styles.title}>Honor & Awards</h1>
+        <h1 style={styles.title}>Scholarship 獎學金</h1>
+        <ul style={{ textAlign: "initial", justifyContent: "space-around" }}>
+          <li>American Women’s Association Scholarship</li>
+          <li>Rotary club of Channel Islands Scholarship</li>
+        </ul>
+      </Container>
+      <Container>
+        <h1 style={styles.title}>Honor & Awards 獎項</h1>
         <ul style={{ textAlign: "initial", justifyContent: "space-around" }}>
           <li>Pearson LCCI Certificate (HKVEP)</li>
           <li>Outstanding academic achievement</li>
@@ -185,6 +210,7 @@ function About2() {
             Electronic and Computer engineering Students’ Society member
             (Position: Internal Vice-Chairperson)
           </li>
+          <li>HKACE及政府資訊科技辦公室主辦 T.E.A.C.H. 編程教育教師聯盟成員</li>
         </ul>
       </Container>
     </Container>
