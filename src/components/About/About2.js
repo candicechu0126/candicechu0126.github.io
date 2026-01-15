@@ -196,7 +196,9 @@ function About2() {
             Diverse Learning Needs for TAs Working in Ordinary Schools by The
             Education University of Hong Kong
           </li>
-          <li>2022/23 HKU CITE Teacher Award</li>
+          <li>2022/23 HKU Teacher Award SDL- STEAM學習設計獎 </li>
+          <li>2023/24 HKU 教育應用科技獎 - 最佳應用電子學習平台獎 </li>
+          <li>2024/25 HKU CITE Teacher Award - Silver Awardee in the STEAM & Computational Thinking Education stream of the Outstanding e-Learning Awards</li>
         </ul>
       </Container>
       <Container>
