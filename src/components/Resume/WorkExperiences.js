@@ -8,9 +8,9 @@ export default function WorkExperiences() {
   return (
     <Container fluid className="about-section">
       {/* <Container> */}
+      <CourseTraining />
       <Activity />
       <MultimediaExp />
-      {/* <CourseTraining /> */}
       {/* </Container> */}
     </Container>
   );
