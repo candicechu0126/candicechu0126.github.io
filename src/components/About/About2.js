@@ -139,8 +139,7 @@ function About2() {
                 Present)
               </div>
               <li>高中 DSE ICT課程</li>
-              <li>初中創新科技科</li>
-              <li>中一課程統籌</li>
+              <li>初中創新科技科 Panel Head</li>
             </ul>
           </div>
         </div>
